@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Welcome to My Garden: The First Seed'
+title: 'I Made a Website!'
 date: 2023-05-21 12:04:53 -0600
 categories: website web-dev
 ---
@@ -10,6 +10,7 @@ categories: website web-dev
 I did fancy tech-typing and documentation-reading to make a static website that's hosted on the internet.
 
 ![mountain climber at the peak, raising his fist in celebration over a beautiful sunset](https://images.unsplash.com/photo-1519834785169-98be25ec3f84?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80 'celebrate!')
+
 _(I even figured out how to add an image from [Unsplash](https://unsplash.com/)!)_
 
 Technically, I've done it before as part of web design and development classes, but none of those...did anything.
@@ -18,7 +19,7 @@ Technically, I've done it before as part of web design and development classes, 
 
 I suppose this doesn't do much of anything either. But now I understand that's the point.
 
-This is my digital garden, inspired by the brilliant Brad Woods' Digital Garden at https://garden.bradwoods.io:
+This is my digital garden, inspired by the brilliant Brad Woods' Digital Garden at [https://garden.bradwoods.io](https://garden.bradwoods.io):
 
 `A digital garden is an approach to publishing personal knowledge on the web. Different than a blog that contains polished articles in reverse chronological order. Digital gardens are more like work-in-progress wikis. A collection of unrefined, incomplete ideas that grow & evolve over time through constant tending (editing, rewriting & revising).`
 
@@ -27,6 +28,8 @@ Except I hate yardwork.
 My kind of garden might end out more like constantly letting things spew out, fall into the background and exist while I move onto other things.
 
 So rather than tend pages I create, I think I might just keep planting new things here.
+
+Yeah, that sounds a lot just like a blog...
 
 But who knows! I may find a fondness for certain pages and turn them into a hub of my knowledge and ramblings about certain topics.
 
@@ -94,16 +97,4 @@ I think that's enough for now. I'm liking the idea behind this. There's no press
 
 If you're reading this, I hope we both continue to learn that we're doing our best, and how to grow that best steadily and surely.
 
-God bless us, every one.
-
-#
-
-Not sure what this is here, but it was built-in code from [Jekyll](https://jekyllrb.com/), the framework used to create this site, and I want to see what it does.
-
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+God bless us, every one!
