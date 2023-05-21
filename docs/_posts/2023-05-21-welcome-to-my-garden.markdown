@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My Website is Live!'
+title: 'Welcome to My Garden: The First Seed'
 date: 2023-05-21 12:04:53 -0600
 categories: website web-dev
 ---
