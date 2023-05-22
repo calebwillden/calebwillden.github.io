@@ -98,6 +98,7 @@ I haven't even started yet and I'm feeling strain. There's a long YouTube video 
 I need meaningful activities to engage in (like this digital garden blog thing). Here are my ideas:
 
 -   Text friends to see how they're doing.
+
 -   Compose an fast-paced, syncopated version of the hymn "There Is Sunshine in My Soul Today" on MuseScore.
 
 -   Watch Bible Project videos and listen to podcasts.
