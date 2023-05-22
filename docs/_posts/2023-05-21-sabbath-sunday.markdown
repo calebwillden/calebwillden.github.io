@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sabbaths & Sundays'
-date: 2023-05-21 18:22:00 -0600
+date: 2023-05-21 18:22:00 -0700
 categories: religion psychology
 ---
 
