@@ -11,6 +11,8 @@ That's bound to cause many to make assumptions about me, but I'm not here to pre
 
 I'm no psychologist, but I love learning and thinking about religion in the context of science.
 
+[![image](https://www.churchofjesuschrist.org/bc/content/ldsorg/church/news/2015/07/21/Chapel%20at%20Sao%20Paulo%20Brazil-957198.jpg)](https://www.churchofjesuschrist.org/church/news/blessings-of-the-sabbath-day?lang=eng)
+
 # What's a "Sabbath Day"?
 
 In my church, the Sabbath Day is Sunday, called that because it is a day to be set apart from other days. Set apart how? In purpose. In how it is spent.
