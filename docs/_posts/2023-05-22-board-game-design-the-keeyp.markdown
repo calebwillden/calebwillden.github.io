@@ -15,13 +15,13 @@ I think I mean "fan" as in "fanatic" almost literally, in that I have "excessive
 
 Here is a 5-page review exploring the game in-depth, giving it tremendous praise with some big criticisms too:
 
-[The Keeyp Deep Dive Review](https://docs.google.com/document/d/1_IZ76_cmTHReNNTead0xz78QZGZqlb2YJNlm3VKW9ho/edit?usp=sharing)
+**[The Keeyp Deep Dive Review](https://docs.google.com/document/d/1_IZ76_cmTHReNNTead0xz78QZGZqlb2YJNlm3VKW9ho/edit?usp=sharing)**
 
 # Revisions & Redesigns
 
 And here is a document I wrote when I told one of the Firit Studio staff members on their Discord server I had some technical writing revisions for the game, and it turned into a massive multi-section document:
 
-[The Keeyp Technical Wording Revisions](https://docs.google.com/document/d/1qEwWnYvglhgOIZ97o9q5OjJFrMYZsuZrlW8VsfNOmzk/edit#)
+**[The Keeyp Technical Wording Revisions](https://docs.google.com/document/d/1qEwWnYvglhgOIZ97o9q5OjJFrMYZsuZrlW8VsfNOmzk/edit#)**
 
 # What Lights You Up Like a Christmas Tree?
 
